@@ -10,7 +10,8 @@ It displays a list of countries along with their **flags** and **nicknames** usi
 - ✅ Clickable items with **Toast messages**  
 - ✅ Supports `LinearLayoutManager`, `GridLayoutManager`, and `StaggeredGridLayoutManager`  
 
-## 📸 Screenshots  
+## 📸 Screenshots 
+![RecyclerView Cards](https://raw.githubusercontent.com/sshedau/RecyclerView-Cards/refs/heads/main/recyclerView_Cards.jpg)
 
 
 ## 🚀 Tech Stack  
